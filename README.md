@@ -1,3 +1,4 @@
 A simple react app to change the Background color.
 
-<img width="960" alt="image" src="https://github.com/saloni0419/Bg-Changer/assets/100074110/f5c7e0c2-fccc-4fb4-91f3-2439d93fc440">
+<img width="960" alt="image" src="https://github.com/saloni0419/Bg-Changer/assets/100074110/1fe5e3a2-8637-4690-9980-1a9f98182aed">
+
